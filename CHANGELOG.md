@@ -12,6 +12,7 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
+| [Content Type Propagation](./Community/content-type-propagation.md) | [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
 
 ### Updated Articles - March, 2022
 
