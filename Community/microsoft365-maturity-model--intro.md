@@ -47,20 +47,21 @@ In developing a maturity model for Microsoft 365 we aimed to create a toolkit wh
 
 ### Published
 
+- [Business Process](microsoft365-maturity-model--business-process.md)
 - [Collaboration](microsoft365-maturity-model--collaboration.md)
 - [Communication](microsoft365-maturity-model--communication.md)
+- [Customization & Development](microsoft365-maturity-model--customization-and-development.md)
+- [Governance, Risk, and Compliance Competency](microsoft365-maturity-model--governance-and-compliance.md)
+- [Infrastructure Competency](microsoft365-maturity-model--infrastructure.md)
+- [Management of Content](microsoft365-maturity-model--management-of-content.md)
 - [People & Communities](microsoft365-maturity-model--people-and-communities-competency.md)
 - [Search](microsoft365-maturity-model--search.md)
 - [Staff & Training](microsoft365-maturity-model--staff-and-training.md)
-- [Business Process](microsoft365-maturity-model--business-process.md)
-- [Management of Content](microsoft365-maturity-model--management-of-content.md)
-- [Customization & Development](microsoft365-maturity-model--customization-and-development.md)
-- [Governance, Risk, and Compliance Competency](microsoft365-maturity-model--governance-and-compliance.md)
 
 ### In progress
 
 - Data & Analytics
-- Infrastructure
+- Employee Experience
 
 ## Maturity Levels
 
